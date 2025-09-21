@@ -27,7 +27,7 @@
 ---
 
 ### 📂 Featured Project
-
+![Dashboard Preview](https://github.com/seongfatt/associate-data-analyst/blob/main/CRM-Sales-Dashboard/Dashboard.jpg)
 #### 🎓 [Associate Data Analyst Capstone](https://github.com/seongfatt/associate-data-analyst)
 > My certification journey — includes real datasets, SQL queries, Excel analysis, and Power BI dashboards.  
 > 🤖 Built with Gen AI support: helped me choose chart types, fix DAX errors, and document my process.  
