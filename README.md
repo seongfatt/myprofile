@@ -1,7 +1,10 @@
 <!-- README.md for https://github.com/seongfatt -->
 
 <h1 align="center">👋 Hi, I’m Seong Fatt</h1>
-<h3 align="center">Newly Certified Data Analyst • AI-Powered Builder • Turning Prompts into Projects That Work</h3>
+<h3 align="center">Newly Certified Data Analyst • AI-Powered Builder • 🟢 Open to Entry-Level Roles & Freelance</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Entry--Level%20%26%20Freelance-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
@@ -32,16 +35,18 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Seong Fatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongfatt&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongfatt&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📬 Let’s Connect & Work Together
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tang-seong-fatt)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sftang1979@gmail.com)
 
+---
+
+### 📚 Currently Learning in Public
+- Advanced Power BI DAX & Measures
+- SQL Window Functions
+- Prompt Engineering for Data Cleaning
+- Dashboard Storytelling Best Practices
+
+> “I document my progress — mistakes and all — because learning in public keeps me accountable.”
 > 🟢 **Open to entry-level data roles, internships, or freelance gigs — I learn fast, communicate clearly, and deliver with support (human or AI 😉)**
