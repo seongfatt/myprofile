@@ -39,7 +39,7 @@ I focus on:
 ---
 
 ### 📬 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tang-seong-fatt)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sftang1979@gmail.com)
 
 > 🟢 **Open to entry-level data roles, internships, or freelance gigs — I learn fast and deliver with support (human or AI 😉)**
