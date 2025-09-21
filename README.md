@@ -1,33 +1,34 @@
-<!-- README.md for github.com/seongfatt -->
+<!-- README.md for https://github.com/seongfatt -->
 
 <h1 align="center">👋 Hi, I’m Seong Fatt</h1>
-<h3 align="center">Newly Certified Data Analyst | AI-Powered Learner | Turning Prompts into Projects</h3>
+<h3 align="center">Newly Certified Data Analyst • AI-Powered Builder • Turning Prompts into Projects That Work</h3>
 
 ---
 
-### 🎯 My Approach
-> “I may not have years of experience — but I have curiosity, discipline, and the ability to use Gen AI (like ChatGPT, Claude, Gemini) to understand requirements, debug code, design dashboards, and deliver what clients or users actually need.”
+### 🎯 My Honest Approach
+> “I’m new to data analytics — but I ship real, usable projects.  
+> I use Gen AI (ChatGPT, Claude, Gemini) as my co-pilot to learn faster, debug smarter, and deliver what users actually need.  
+> I don’t pretend to know everything — I focus on understanding, validating, and delivering.”
 
-I focus on:
-
-✅ **Learning by doing** — every repo is a real or realistic project  
-✅ **AI-assisted development** — using prompts to accelerate understanding and output  
-✅ **Client/User-focused results** — even if I need AI help, the final product works and solves a problem
+✅ Learning by doing — every repo is a hands-on project  
+✅ AI-assisted development — prompts help me write better SQL, design dashboards, clean data  
+✅ Client/User-focused — I care about solving the problem, not just writing code
 
 ---
 
 ### 🛠️ Skills & Tools
-- **Data Analysis**: SQL, Excel (PivotTables, VLOOKUP), Power BI, Python (Pandas)
+- **Data Tools**: SQL | Excel (PivotTables, Formulas) | Power BI | Python (Pandas)
 - **AI Collaboration**: Prompt Engineering, AI-assisted debugging & documentation
-- **Soft Skills**: Requirement translation, iterative delivery, clear communication
+- **Mindset**: Curious, honest, iterative, delivery-focused
 
 ---
 
 ### 📂 Featured Project
 
 #### 🎓 [Associate Data Analyst Capstone](https://github.com/seongfatt/associate-data-analyst)
-> A complete walkthrough of my certification journey — includes datasets, queries, visualizations, and reflections.  
-> Built with Excel, SQL, and Power BI — with Gen AI helping me understand chart best practices, clean data, and structure my workflow.
+> My certification journey — includes real datasets, SQL queries, Excel analysis, and Power BI dashboards.  
+> 🤖 Built with Gen AI support: helped me choose chart types, fix DAX errors, and document my process.  
+> 💡 Proof that you don’t need to know everything — you just need to know how to figure it out.
 
 ---
 
@@ -38,8 +39,9 @@ I focus on:
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Let’s Connect & Work Together
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tang-seong-fatt)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sftang1979@gmail.com)
 
-> 🟢 **Open to entry-level data roles, internships, or freelance gigs — I learn fast and deliver with support (human or AI 😉)**
+> 🟢 **Open to entry-level data roles, internships, or freelance gigs — I learn fast, communicate clearly, and deliver with support (human or AI 😉)**
