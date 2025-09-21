@@ -27,18 +27,19 @@
 ---
 
 ### 📂 Featured Project
-![Dashboard Preview](https://github.com/seongfatt/associate-data-analyst/blob/main/CRM-Sales-Dashboard/Dashboard.jpg)
+
 #### 🎓 [Associate Data Analyst Capstone](https://github.com/seongfatt/associate-data-analyst)
 > My certification journey — includes real datasets, SQL queries, Excel analysis, and Power BI dashboards.  
 > 🤖 Built with Gen AI support: helped me choose chart types, fix DAX errors, and document my process.  
 > 💡 Proof that you don’t need to know everything — you just need to know how to figure it out.
 
+![Dashboard Preview](https://github.com/seongfatt/associate-data-analyst/blob/main/CRM-Sales-Dashboard/Dashboard.jpg)
 ---
 
 ### 📬 Let’s Connect & Work Together
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tang-seong-fatt)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sftang1979@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tangseongfatt-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tang-seong-fatt)
+[![Email](https://img.shields.io/badge/Email-sftang1979@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sftang1979@gmail.com)
 
 ---
 
@@ -49,4 +50,3 @@
 - Dashboard Storytelling Best Practices
 
 > “I document my progress — mistakes and all — because learning in public keeps me accountable.”
-> 🟢 **Open to entry-level data roles, internships, or freelance gigs — I learn fast, communicate clearly, and deliver with support (human or AI 😉)**
