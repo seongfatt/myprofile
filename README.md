@@ -19,6 +19,32 @@
 
 ---
 
+## 🤖 My AI-Assisted Workflow & Prompt Engineering
+
+I believe in leveraging the best tools available, and for me, that includes Generative AI. Many of the projects in this repository are **AI-assisted**, meaning I've used **prompt engineering** to accelerate my work.
+
+This is not a shortcut — it's a productivity multiplier.
+
+| My Honest Use of AI | How It Adds Value |
+| :--- | :--- |
+| **Co-pilot for Code** | Generating boilerplate code, writing complex SQL queries, and suggesting efficient Python syntax (Pandas, etc.). |
+| **Expert Debugger** | Finding and explaining errors in my DAX formulas, SQL stored procedures, and Python scripts faster than traditional searching. |
+| **Documentation & Design** | Helping structure documentation, suggesting logical chart types for a dataset, and refining dashboard narrative. |
+| **Learning Accelerator** | Explaining new concepts (like SQL Window Functions) through practical, contextual examples. |
+
+> 🧠 **The Human Work:** I provide the intent, the context, and the data. I **critically review**, **validate**, and **own** every line of code and every insight the AI helps generate.  
+> I am the driver; AI is the engine.
+
+---
+
+### ✅ AI Collaboration Disclaimer
+
+> I actively use Gen AI tools (ChatGPT, Claude, Gemini) to support my learning and development.  
+> Prompt engineering is part of my workflow — helping me debug, document, and deliver faster.  
+> Every project reflects honest effort, critical thinking, and hands-on validation.  
+> AI assists me, but I take full responsibility for understanding and refining the work I publish.
+
+---
 ### 🛠️ Skills & Tools
 - **Data Tools**: SQL | Excel (PivotTables, Formulas) | Power BI | Python (Pandas)
 - **AI Collaboration**: Prompt Engineering, AI-assisted debugging & documentation
